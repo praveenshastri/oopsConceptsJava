@@ -6,9 +6,11 @@ If you've never used an object-oriented programming language before, you'll need
 
 Object-Oriented Programming consist of some important concepts namely:
 
-* Encapsulation,
-* Polymorphism,
+* Encapsulation
+* Polymorphism
 * Inheritance
-* Abstraction.
+* Abstraction
 
-These features are generally referred to as the OOPS concepts. This project contains the code to demonastarte the above described concepts.
+These features are generally referred to as the OOPS concepts. 
+
+This project contains the code to demonastarte the above described concepts.
