@@ -1,4 +1,4 @@
-** oopsConceptsJava
+# OopsConceptsJava
 
 Examples demonstrating OOPs concepts in Java
 
